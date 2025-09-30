@@ -1,5 +1,6 @@
 # A02
 
+This tutorial provides a simple, step-by-step guide on using **GIT** for version control and **GitHub** for hosting your code, using **WebStorm** as your main tool
 ---
 
 ## Part 1 — Step by Step Directions
