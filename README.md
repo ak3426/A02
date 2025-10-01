@@ -11,7 +11,7 @@ Git, GitHub, and WebStorm Tutorial
 * Click Sign Up.
 * Enter your email, username, and password.
 * Verify your email and complete your profile setup.
-   ### . Create a Repository on GitHub
+### Create a Repository on GitHub
 * On GitHub, click the **+** sign in the top-right corner.
 * Select **New repository**.
 * Name it **A02** (capital A).
